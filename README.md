@@ -3,6 +3,6 @@
 
 Or
 
-#### Click below Single-Click button to Deploy on your Heroku Account
+<!-- #### Click below Single-Click button to Deploy on your Heroku Account
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MDShahrouq/loopback/tree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/heroku/node-js-sample/tree/master) -->
