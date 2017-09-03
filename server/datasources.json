@@ -1,0 +1,12 @@
+{
+  "db": {
+    "host": "ds119044.mlab.com",
+    "port": 19044,
+    "url": "",
+    "database": "meetupz",
+    "password": "root123",
+    "name": "db",
+    "user": "mongoDS",
+    "connector": "mongodb"
+  }
+}
